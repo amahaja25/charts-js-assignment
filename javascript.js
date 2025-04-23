@@ -59,7 +59,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                   {x: 26.5, y: 147000},
                 ],
                 label: "Hawaii",
-                borderColor: "#3e95cd",
+                borderColor: "#AF3EC1",
                 backgroundColor: "rgb(62,149,205,0.1)",
                 borderWidth:2,
                
@@ -68,7 +68,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                   {x: 20.6, y: 1706000},
                 ],
                 label: "New York",
-                borderColor: "#3cba9f",
+                borderColor: "#AA42CD",
                 backgroundColor: "rgb(60,186,159,0.1)",
                 borderWidth:2,
                 
@@ -77,7 +77,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 17.7, y: 53000},
                 ],
                 label: "Alaska",
-                borderColor: "#ffa500",
+                borderColor: "#A246D8",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
@@ -87,7 +87,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 16.5, y: 269000},
                 ],
                 label: "Connecticut",
-                borderColor: "#ffa500",
+                borderColor: "#994BE2",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
@@ -97,7 +97,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 16.2, y: 682000},
                 ],
                 label: "New Jersey",
-                borderColor: "#ffa500",
+                borderColor: "#8F52EB",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
@@ -107,7 +107,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 16, y: 548000},
                 ],
                 label: "Washington",
-                borderColor: "#ffa500",
+                borderColor: "#C1AD3E",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
@@ -117,7 +117,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 15.9, y: 292000},
                 ],
                 label: "Oregon",
-                borderColor: "#ffa500",
+                borderColor: "#CDA842",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
@@ -127,7 +127,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 14.6, y: 496000},
                 ],
                 label: "Massachusetts",
-                borderColor: "#ffa500",
+                borderColor: "#D8A046",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
@@ -137,7 +137,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 14.5, y: 2381000},
                 ],
                 label: "California",
-                borderColor: "#ffa500",
+                borderColor: "#E2964B",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
@@ -147,7 +147,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 14.5, y: 73000},
                 ],
                 label: "Rhode Island",
-                borderColor: "#ffa500",
+                borderColor: "#EB8C52",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
@@ -157,7 +157,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 14.3, y: 42000},
                 ],
                 label: "Vermont",
-                borderColor: "#ffa500",
+                borderColor: "#3EC1AD",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
@@ -167,7 +167,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 14.2, y: 379000},
                 ],
                 label: "Minnesota",
-                borderColor: "#ffa500",
+                borderColor: "#42CDA8",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
@@ -177,7 +177,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 13.4, y: 581000},
                 ],
                 label: "Michigan",
-                borderColor: "#ffa500",
+                borderColor: "#46D8A0",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
@@ -187,7 +187,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 13.1, y: 734000},
                 ],
                 label: "Illinois",
-                borderColor: "#ffa500",
+                borderColor: "#4BE296",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
@@ -197,7 +197,7 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 {x: 13.1, y: 77000},
                 ],
                 label: "Maine",
-                borderColor: "#ffa500",
+                borderColor: "#52EB8C",
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
