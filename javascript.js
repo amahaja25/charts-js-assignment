@@ -201,7 +201,67 @@ var ctx = document.getElementById('myChart2').getContext('2d');
                 backgroundColor:"rgb(255,165,0,0.1)",
                 borderWidth:2,
                 
-              }
+              },
+              { 
+                data: [
+                {x: 12.1, y: 166000},
+                ],
+                label: "Nevada",
+                borderColor: "#59F382",
+                backgroundColor:"rgb(255,165,0,0.1)",
+                borderWidth:2,
+                
+              },
+              { 
+                data: [
+                {x: 12.1, y: 621000},
+                ],
+                label: "Ohio",
+                borderColor: "#62F978",
+                backgroundColor:"rgb(255,165,0,0.1)",
+                borderWidth:2,
+                
+              },
+              { 
+                data: [
+                {x: 11.9, y: 56000},
+                ],
+                label: "Montana",
+                borderColor: "#6BFF70",
+                backgroundColor:"rgb(255,165,0,0.1)",
+                borderWidth:2,
+                
+              },
+              { 
+                data: [
+                {x: 11.7, y: 666000},
+                ],
+                label: "Pennsylvania",
+                borderColor: "#59F382",
+                backgroundColor:"rgb(255,165,0,0.1)",
+                borderWidth:2,
+                
+              },
+              { 
+                data: [
+                {x: 11.4, y: 325000},
+                ],
+                label: "Maryland",
+                borderColor: "#62F978",
+                backgroundColor:"rgb(255,165,0,0.1)",
+                borderWidth:2,
+                
+              },
+              { 
+                data: [
+                {x: 10.6, y: 38000},
+                ],
+                label: "District of Columbia",
+                borderColor: "#EB8C52",
+                backgroundColor:"rgb(255,165,0,0.1)",
+                borderWidth:2,
+                
+              },
             ]
           },
           options: {
